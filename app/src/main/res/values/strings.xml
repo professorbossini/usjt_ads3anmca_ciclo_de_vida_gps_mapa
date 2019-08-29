@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">usjt_ads3anmca_ciclo_de_vida_gps_mapa</string>
+    <string name="action_settings">Settings</string>
+    <string name="sem_gps_nao_rola">Sem GPS não vai rolar</string>
+</resources>

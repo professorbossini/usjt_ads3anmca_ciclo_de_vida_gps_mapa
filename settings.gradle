@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='usjt_ads3anmca_ciclo_de_vida_gps_mapa'
